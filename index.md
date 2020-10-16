@@ -38,7 +38,9 @@ Skills:
 
 # Gantt Chart
 
-![Screenshot](gantt.png)
+![Screenshot](Picture1.png)
+
+
 
 
 
