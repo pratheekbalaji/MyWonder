@@ -1,5 +1,5 @@
 # MyWonder
-##Project Summary
+Project Summary
 
 MyWonder is a big data analytics and visualization platform allowing users to create visualizations from massive files under 10 minutes. The same process would earlier take hours testing the patience of end users leaving them unsatisified with the product. 
 
