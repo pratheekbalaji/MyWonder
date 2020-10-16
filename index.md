@@ -1,4 +1,3 @@
-MyWonder
 
 # Project Summary
 
